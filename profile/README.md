@@ -16,6 +16,7 @@ The most disappointed and stressful in my entire life
 ## Sophomore Year (Electrical Engineering)
 Wasting too much time on department changing , no skills gained 
 | Term | Code | Course | Repository | Project |
+|------|------|--------|------------|---------|
 | Y2 · S1 | 2102203 | Probability and Statistics for Electrical Engineering | [2102203 Probability and Statistics for Electrical Engineering](https://github.com/Chatrphol-Chula-Coursework/2102203_Probability_and_Statistics_for_Electrical_Engineering) | - |
 | Y2 · S1 | 2108564 | Geospatial Data Science and Analysis | [2108564_Geospatial-Data-Science-and-Analysis](https://github.com/NuBFightForMyDream/2108564_Geospatial-Data-Science-and-Analysis) | - |
 | Y2 · S1 | 2209261 | Basic Programming for NLP | [2209261-Basic-Programming-NLP](https://github.com/NuBFightForMyDream/2209261-Basic-Programming-NLP) | [PA4 Song-the-sizr|(https://github.com/NuBFightForMyDream/2209261_ProgNLP_Project_SONG-THE-SIZR)
@@ -25,12 +26,14 @@ Wasting too much time on department changing , no skills gained
 ## Sophomore Year (Computer Engineering)
 Too much nonsense on this semester , adapting to new environments
 | Term | Code | Course | Repository | Project |
+|------|------|--------|------------|---------|
 | Y2 · S2 | 2110201 | Computer Engineering Mathematics | [2110201_Computer_Engineering_Math_I](https://github.com/NuBFightForMyDream/2110201_Computer_Engineering_Math_I) | - | 
 | Y2 · S2 | 2110215 | Programming Methodology | [2110215_Programming_Methodology](https://github.com/NuBFightForMyDream/2110215_Programming_Methodology) | - |
 
 ## Junior Year (Semester I)
 Totally exhausted as hell , grade drops too much bt gained many experiences
 | Term | Code | Course | Repository | Project |
+|------|------|--------|------------|---------|
 | Y3 · S1 | 2107541 | Machine Learning for Environmental Applications | [2107541_Machine_Learning_for_Environmental_Applications]|(https://github.com/NuBFightForMyDream/2107541_Machine_Learning_For_Environmental_Applications) | [Predicting Water Turbidity with TSS](https://github.com/NuBFightForMyDream/2107541_MLEnvi_Project_PredictingWaterTurbidityWithTSS) | 
 | Y3 · S1 | 2110203 | Computer Engineering Mathematics II | [2110203_Computer_Engineering_Math_II](https://github.com/NuBFightForMyDream/2110203_Computer_Engineering_Math_II) | - |
 | Y3 · S1 | 2110200 | Discrete Structures | - | - |
@@ -41,6 +44,7 @@ Totally exhausted as hell , grade drops too much bt gained many experiences
 
 # Junior Year (Semester II)
 | Term | Code | Course | Repository | Project |
+|------|------|--------|------------|---------|
 | Y3 · S2 | 2110327 | Algorithm Design | | |
 | Y3 · S2 | 2110322 | Database Systems | | |
 | Y3 · S2 | 2110327 | Hardware Synthesis Lab | | |

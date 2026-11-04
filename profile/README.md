@@ -19,7 +19,7 @@ Wasting too much time on department changing , no skills gained
 |------|------|--------|------------|---------|
 | Y2 · S1 | 2102203 | Probability and Statistics for Electrical Engineering | [2102203 Probability and Statistics for Electrical Engineering](https://github.com/Chatrphol-Chula-Coursework/2102203_Probability_and_Statistics_for_Electrical_Engineering) | - |
 | Y2 · S1 | 2108564 | Geospatial Data Science and Analysis | [2108564_Geospatial-Data-Science-and-Analysis](https://github.com/NuBFightForMyDream/2108564_Geospatial-Data-Science-and-Analysis) | - |
-| Y2 · S1 | 2209261 | Basic Programming for NLP | [2209261-Basic-Programming-NLP](https://github.com/NuBFightForMyDream/2209261-Basic-Programming-NLP) | [PA4 Song-the-sizr|(https://github.com/NuBFightForMyDream/2209261_ProgNLP_Project_SONG-THE-SIZR)
+| Y2 · S1 | 2209261 | Basic Programming for NLP | [2209261-Basic-Programming-NLP](https://github.com/NuBFightForMyDream/2209261-Basic-Programming-NLP) | [PA4 Song-the-sizr](https://github.com/NuBFightForMyDream/2209261_ProgNLP_Project_SONG-THE-SIZR) |
 | Y2 · S1 | 2102206 | Introduction to Electrical Engineering | [2102206_Intro-Electrical-Engineering](https://github.com/NuBFightForMyDream/2102206_Intro-Electrical-Engineering) | - |
 | Y2 · S1 | 2102208 | Programming for Electrical Engineering | [2102208_ProgEE_Grader_Problems](https://github.com/NuBFightForMyDream/2102208_ProgEE_Grader_Problems) | - |
 
@@ -28,13 +28,14 @@ Too much nonsense on this semester , adapting to new environments
 | Term | Code | Course | Repository | Project |
 |------|------|--------|------------|---------|
 | Y2 · S2 | 2110201 | Computer Engineering Mathematics | [2110201_Computer_Engineering_Math_I](https://github.com/NuBFightForMyDream/2110201_Computer_Engineering_Math_I) | - | 
-| Y2 · S2 | 2110215 | Programming Methodology | [2110215_Programming_Methodology](https://github.com/NuBFightForMyDream/2110215_Programming_Methodology) | - |
+| Y2 · S2 | 2110215 | Programming Methodology | [2110215_Programming_Methodology](https://github.com/NuBFightForMyDream/2110215_Programming_Methodology) | [PotionMixie](https://github.com/NuBFightForMyDream/2110215_ProgMeth_FinalProject_PotionMixie) |
 
 ## Junior Year (Semester I)
-Totally exhausted as hell , grade drops too much bt gained many experiences
+Totally exhausted as hell , grade drops too much but gained many experiences
 | Term | Code | Course | Repository | Project |
 |------|------|--------|------------|---------|
-| Y3 · S1 | 2107541 | Machine Learning for Environmental Applications | [2107541_Machine_Learning_for_Environmental_Applications]|(https://github.com/NuBFightForMyDream/2107541_Machine_Learning_For_Environmental_Applications) | [Predicting Water Turbidity with TSS](https://github.com/NuBFightForMyDream/2107541_MLEnvi_Project_PredictingWaterTurbidityWithTSS) | 
+| Y3 · S1 | 2107541 | Machine Learning for Environmental Applications | [2107541_Machine_Learning_for_Environmental_Applications](https://github.com/NuBFightForMyDream/2107541_Machine_Learning_For_Environmental_Applications) | [Predicting Water Turbidity with TSS](https://github.com/NuBFightForMyDream/2107541_MLEnvi_Project_PredictingWaterTurbidityWithTSS) | 
+| Y3 · S1 | 2107540 | Data Science for Environmental and Sustainability | [2107540 Data Science for Environmental and Sustainability](https://github.com/NuBFightForMyDream/2107541_Machine_Learning_For_Environmental_Applications) | [Still in progress](https://github.com/NuBFightForMyDream/2107540_DataSciEnvi_FinalProject_StillInProgress) | 
 | Y3 · S1 | 2110203 | Computer Engineering Mathematics II | [2110203_Computer_Engineering_Math_II](https://github.com/NuBFightForMyDream/2110203_Computer_Engineering_Math_II) | - |
 | Y3 · S1 | 2110200 | Discrete Structures | - | - |
 | Y3 · S1 | 2110211 | Introduction to Data Structure | [2110211_Introduction-to-Data-Structure](https://github.com/NuBFightForMyDream/2110211_Introduction-to-Data-Structure) | - |

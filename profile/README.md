@@ -35,7 +35,7 @@ Totally exhausted as hell , grade drops too much but gained many experiences
 | Term | Code | Course | Repository | Project |
 |------|------|--------|------------|---------|
 | Y3 · S1 | 2107541 | Machine Learning for Environmental Applications | [2107541_Machine_Learning_for_Environmental_Applications](https://github.com/NuBFightForMyDream/2107541_Machine_Learning_For_Environmental_Applications) | [Predicting Water Turbidity with TSS](https://github.com/NuBFightForMyDream/2107541_MLEnvi_Project_PredictingWaterTurbidityWithTSS) | 
-| Y3 · S1 | 2107540 | Data Science for Environmental and Sustainability | [2107540 Data Science for Environmental and Sustainability](https://github.com/NuBFightForMyDream/2107541_Machine_Learning_For_Environmental_Applications) | [Still in progress](https://github.com/NuBFightForMyDream/2107540_DataSciEnvi_FinalProject_StillInProgress) | 
+| Y3 · S1 | 2107540 | Data Science for Environmental and Sustainability | [2107540 Data Science for Environmental and Sustainability](https://github.com/Chatrphol-Chula-Coursework/2107540_Data_Science_for_Environments_and_Sustainability) | [Still in progress](https://github.com/NuBFightForMyDream/2107540_DataSciEnvi_FinalProject_StillInProgress) | 
 | Y3 · S1 | 2110203 | Computer Engineering Mathematics II | [2110203_Computer_Engineering_Math_II](https://github.com/NuBFightForMyDream/2110203_Computer_Engineering_Math_II) | - |
 | Y3 · S1 | 2110200 | Discrete Structures | - | - |
 | Y3 · S1 | 2110211 | Introduction to Data Structure | [2110211_Introduction-to-Data-Structure](https://github.com/NuBFightForMyDream/2110211_Introduction-to-Data-Structure) | - |

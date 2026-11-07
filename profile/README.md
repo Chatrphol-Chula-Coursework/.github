@@ -37,7 +37,7 @@ Totally exhausted as hell , grade drops too much but gained many experiences
 | Y3 · S1 | 2107541 | Machine Learning for Environmental Applications | [2107541_Machine_Learning_for_Environmental_Applications](https://github.com/NuBFightForMyDream/2107541_Machine_Learning_For_Environmental_Applications) | [Predicting Water Turbidity with TSS](https://github.com/NuBFightForMyDream/2107541_MLEnvi_Project_PredictingWaterTurbidityWithTSS) | 
 | Y3 · S1 | 2107540 | Data Science for Environmental and Sustainability | [2107540 Data Science for Environmental and Sustainability](https://github.com/Chatrphol-Chula-Coursework/2107540_Data_Science_for_Environments_and_Sustainability) | [Still in progress](https://github.com/NuBFightForMyDream/2107540_DataSciEnvi_FinalProject_StillInProgress) | 
 | Y3 · S1 | 2110203 | Computer Engineering Mathematics II | [2110203_Computer_Engineering_Math_II](https://github.com/NuBFightForMyDream/2110203_Computer_Engineering_Math_II) | - |
-| Y3 · S1 | 2110200 | Discrete Structures | - | - |
+| Y3 · S1 | 2110200 | Discrete Structures | [2110200_Discrete Math Summarizer](https://github.com/Chatrphol-Chula-Coursework/2110200-Discrete-Math-Summarizer) | - |
 | Y3 · S1 | 2110211 | Introduction to Data Structure | [2110211_Introduction-to-Data-Structure](https://github.com/NuBFightForMyDream/2110211_Introduction-to-Data-Structure) | - |
 | Y3 · S1 | 2110251 | Digital Computer Logic | [2110251-Digital-Computer-Logic](https://github.com/NuBFightForMyDream/2110251-Digital-Computer-Logic) | - |
 | Y3 · S1 | 2110263 | Digital Computer Logic Laboratory | [2110263_Digital_Computer_Logic_Laboratory](https://github.com/NuBFightForMyDream/2110263_Digital_Computer_Logic_Laboratory) | - |
@@ -48,12 +48,12 @@ Totally exhausted as hell , grade drops too much but gained many experiences
 |------|------|--------|------------|---------|
 | Y3 · S2 | 2110327 | Algorithm Design | | |
 | Y3 · S2 | 2110322 | Database Systems | | |
-| Y3 · S2 | 2110327 | Hardware Synthesis Lab | | |
-| Y3 · S2 | 2110327 | Data Science & Data Engineering | | |
-| Y3 · S2 | 2110327 | Natural Language Processing | | |
-| Y3 · S2 | 2110327 | Operating System | | |
-| Y3 · S2 | 2110327 | Computer System Architecture | | |
-| Y3 · S2 | 2110292 | Individual Study II | | |
+| Y3 · S2 | 2110363 | Hardware Synthesis Lab | | |
+| Y3 · S2 | 2110446 | Data Science & Data Engineering | | |
+| Y3 · S2 | 2110572 | Natural Language Processing | | |
+| Y3 · S2 | 2110313 | Operating System | | |
+| Y3 · S2 | 2110352 | Computer System Architecture | | |
+| Y3 · S2 | 2110576 | Agentic AI for Computer Engineering | | |
 
 ## Notes
 

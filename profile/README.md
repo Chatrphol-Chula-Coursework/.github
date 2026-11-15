@@ -20,10 +20,12 @@ Wasting too much time on department changing , no skills gained
 | Y2 · S1 | 2102203 | Probability and Statistics for Electrical Engineering | [2102203 Probability and Statistics for Electrical Engineering](https://github.com/Chatrphol-Chula-Coursework/2102203_Probability_and_Statistics_for_Electrical_Engineering) | - |
 | Y2 · S1 | 2102210 | Circuit Theory | Withdrawn | - |
 | Y2 · S1 | 2102204 | Differential Equations and Transform | Withdrawn | - |
+| Y2 · S1 | 2101553 | Computer Application in Transportation | - | - |
 | Y2 · S1 | 2108564 | Geospatial Data Science and Analysis | [2108564_Geospatial-Data-Science-and-Analysis](https://github.com/NuBFightForMyDream/2108564_Geospatial-Data-Science-and-Analysis) | - |
 | Y2 · S1 | 2209261 | Basic Programming for NLP | [2209261-Basic-Programming-NLP](https://github.com/NuBFightForMyDream/2209261-Basic-Programming-NLP) | [PA4 Song-the-sizr](https://github.com/NuBFightForMyDream/2209261_ProgNLP_Project_SONG-THE-SIZR) |
 | Y2 · S1 | 2102206 | Introduction to Electrical Engineering | [2102206_Intro-Electrical-Engineering](https://github.com/NuBFightForMyDream/2102206_Intro-Electrical-Engineering) | - |
 | Y2 · S1 | 2102208 | Programming for Electrical Engineering | [2102208_ProgEE_Grader_Problems](https://github.com/NuBFightForMyDream/2102208_ProgEE_Grader_Problems) | - |
+
 
 ## Sophomore Year (Computer Engineering)
 Too much nonsense on this semester , adapting to new environments
